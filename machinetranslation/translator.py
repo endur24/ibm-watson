@@ -8,7 +8,7 @@ from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
 
 SERVICE_URL = "https://api.us-south.language-translator.watson.cloud.ibm.com"
-API_KEY = "OzxRv5gw9Z5gc-nN78e6-S0WtgtfISGefRk5dtpcamvR"
+API_KEY = "PrivateKey"
 
 def english_to_french(text=None):
     """
