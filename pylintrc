@@ -1,0 +1,2 @@
+[Master]
+init-hook='sys.path = ["/home/endur/.virtualenvs/ibm-watson-5zD_UQmP/bin/", "/home/endur/.virtualenvs/ibm-watson-5zD_UQmP/lib/python3.8/site-packages/", "/usr/lib/python3.8"]'
